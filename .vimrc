@@ -20,7 +20,7 @@ colorscheme railscasts
 set backspace =indent,eol,start
 
 "make search no more case insensitive, when all characters in the string are right
-set ignorecase"
+set ignorecase
 set smartcase
 
 "Enable searching as you type, rather then waiting till you press enter
