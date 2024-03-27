@@ -43,6 +43,6 @@ set shiftwidth=4
 set expandtab
 
 "set autopairs
-"inoremap ( ()<LEFT>
-"inoremap [ []<LEFT>
-"inoremap { {}<LEFT>
+inoremap {<CR> {<CR>}<Esc>O<Esc>a<Tab>
+inoremap [ []<LEFT>
+inoremap { {}<LEFT>
